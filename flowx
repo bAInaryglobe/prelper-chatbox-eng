@@ -1,0 +1,14 @@
+# import
+
+
+# function take user input
+
+# function sanitizes user input
+
+# function breaks input into a list of words
+
+# function takes each of those words and determines what is similar and different between each
+
+# function takes the entire sentence and re-arranges their order randomly
+
+# function appends the first second and last words to 

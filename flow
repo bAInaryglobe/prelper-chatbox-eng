@@ -1,0 +1,28 @@
+# take user raw_input
+
+    # take the input to the word mill
+
+    # take the input to the flour mill
+
+    # take the input to the relationship mill
+
+        # combine outputs from each of these mills, based on the spectrum 1-10
+
+        # use a set of rules to understand how these outputs could be ordered and interpreted
+
+            # print out a set of possible output from these rules
+
+            # based on the spectrum, finalise on one possible output
+
+            # print that output out
+
+                # save the output to a chat file.
+
+
+
+# is the sky blue?
+
+
+
+
+                subprocess.run(['python', 'openredir.py', '-f', f'../LINKS/{file}', '-pl', f'../payloader/{file}', '-o', f'../OUTPUT/{file}'])
